@@ -13,7 +13,7 @@ It features a LED ring made out of 24 RGB LEDs that light up when the user's fin
 # Schematic and PCB
 This device features a custom pcb. I used [kicad](https://www.kicad.org/).
 
-![Schematic](Assets/Schematic.png)
+![Schematic](Assets/Schematic.PNG)
 
 ![PCB](Assets/PCB.PNG)
 
