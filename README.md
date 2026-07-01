@@ -21,5 +21,8 @@ This device features a custom pcb. I used [kicad](https://www.kicad.org/).
 This project uses:
 
 [KICAD](https://www.kicad.org/)
+
 [Blender](https://www.blender.org/) - For renders
+
 [HackClub Fallout](fallout.hackclub.com) - Founding
+
