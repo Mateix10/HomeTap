@@ -7,6 +7,7 @@ I always wanted a premium button that is simple and only does a few actions - To
 For the design, I used a very simple and minimalistic look, while looking sleek and modern.
 
 It features a LED ring made out of 24 RGB LEDs that light up when the user's finger gets close to the button. This design is inspired from the prototype steam box.
+
 ![Render](Assets/Render.png)
 
 # Schematic and PCB
